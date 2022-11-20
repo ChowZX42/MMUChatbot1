@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version = "1.0.1">
+
+<category>
+    <pattern>FIST</pattern>
+    <template>The Faculty of Information Science and Technology (FIST) is one of the major academic units in the university. It plays a pivotal role in producing IT competent personnel to serve in the new and fast-growing knowledge-based industry in addition to the manufacturing, business and financial sectors. \n
+Link: https://www.mmu.edu.my/fist/about-us-2/
+	</template>
+</category>      
+
+<category>
+  <pattern>* FIST</pattern>
+  <template>
+     <srai>FIST</srai>
+  </template>
+</category>	         
+
+   <category>
+      <pattern>FIST UNDERGRADUATE PROGRAMMES</pattern>
+    <template> The Undergraduate Programmes offered by FIST are: \n
+		1. Bachelor of Information Technology (Hons.) Business Intelligence and Analytics \n
+		2. Bachelor of Computer Science (Hons.) Artificial Intelligence \n
+		3. Bachelor of Information Technology (Hons.) Security Technology \n
+		4. Bachelor of Science (Hons.) Bioinformatics \n
+		5. Bachelor of Information Technology (Hons.) Data Communications and Networking \n
+	</template>
+    </category>   
+
+   <category>
+      <pattern>FIST UNDERGRADUATE PROGRAMME</pattern>
+    <template>
+		<srai>FIST UNDERGRADUATE PROGRAMMES</srai>
+	</template>
+    </category>
+
+   <category>
+      <pattern>* FIST UNDERGRADUATE PROGRAMMES</pattern>
+    <template>
+		<srai>FIST UNDERGRADUATE PROGRAMMES</srai>
+	</template>
+    </category>
+
+   <category>
+      <pattern>* FIST UNDERGRADUATE PROGRAMME</pattern>
+    <template>
+		<srai>FIST UNDERGRADUATE PROGRAMMES</srai>
+	</template>
+    </category>	
+	
+   <category>
+      <pattern>* FIST UNDERGRADUATE PROGRAMMES *</pattern>
+    <template>
+		<srai>FIST UNDERGRADUATE PROGRAMMES</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* FIST UNDERGRADUATE PROGRAMME</pattern>
+    <template>
+		<srai>FIST UNDERGRADUATE PROGRAMMES *</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>SYLLABUS</pattern>
+    <template> Which syllabus would you like to know more about? \n
+	Type the number based on the option below: \n
+		1. Bachelor of Information Technology (Hons.) Business Intelligence and Analytics \n
+		2. Bachelor of Computer Science (Hons.) Artificial Intelligence \n
+		3. Bachelor of Information Technology (Hons.) Security Technology \n
+		4. Bachelor of Science (Hons.) Bioinformatics \n
+		5. Bachelor of Information Technology (Hons.) Data Communications and Networking \n
+	</template>
+    </category>
+
+   <category>
+      <pattern>* SYLLABUS</pattern>
+    <template>
+		<srai>SYLLABUS</srai>
+	</template>
+    </category> 
+
+   <category>
+      <pattern>* SYLLABUS *</pattern>
+    <template>
+		<srai>SYLLABUS</srai>
+	</template>
+    </category> 	
+
+   <category>
+      <pattern>1</pattern>
+	  <that>WHICH SYLLABUS WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+    <template> To know more regarding Bachelor of Information Technology (Hons.) Business Intelligence and Analytics, please refer to this link: \n
+     https://www.mmu.edu.my/programmes-by-faculty-all/programmes-by-faculty-fist/bachelor-of-information-technology-hons-business-intelligence-and-analytics/
+</template>
+    </category> 
+
+   <category>
+      <pattern>2</pattern>
+	  <that>WHICH SYLLABUS WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+    <template> To know more regarding Bachelor of Computer Science (Hons.) Artificial Intelligence, please refer to this link: \n
+     https://www.mmu.edu.my/programmes-by-faculty-all/programmes-by-faculty-fist/bachelor-of-information-technology-hons-artificial-intelligence/
+ 
+</template>
+    </category> 
+	
+   <category>
+      <pattern>3</pattern>
+	  <that>WHICH SYLLABUS WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+    <template> To know more regarding Bachelor of Information Technology (Hons.) Security Technology, please refer to this link: \n
+     https://www.mmu.edu.my/programmes-by-faculty-all/programmes-by-faculty-fist/bachelor-of-information-technology-hons-security-technology/
+ 
+</template>
+    </category> 
+	
+   <category>
+      <pattern>4</pattern>
+	  <that>WHICH SYLLABUS WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+    <template> To know more regarding Bachelor of Science (Hons.) Bioinformatics, please refer to this link: \n
+     https://www.mmu.edu.my/programmes-by-faculty-all/programmes-by-faculty-fist/bachelor-of-science-hons-bioinformatics/
+</template>
+    </category> 
+	
+   <category>
+      <pattern>5</pattern>
+	  <that>WHICH SYLLABUS WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+    <template> To know more regarding Bachelor of Information Technology (Hons.) Data Communications and Networking, please refer to this link: \n
+     https://www.mmu.edu.my/programmes-by-faculty-all/programmes-by-faculty-fist/bachelor-of-information-technology-hons-data-communications-and-networking/ 
+</template>
+    </category> 
+
+<category>
+<pattern>ACADEMIC CALENDAR</pattern>
+<template> You can get the MMU academic calendar from the link given below: \n
+https://www.mmu.edu.my/academic-calendar/
+</template>
+</category>
+
+   <category>
+      <pattern>* ACADEMIC CALENDAR</pattern>
+    <template>
+		<srai>ACADEMIC CALENDAR</srai>
+	</template>
+    </category>	
+	
+   <category>
+      <pattern>* ACADEMIC CALENDAR *</pattern>
+    <template>
+		<srai>ACADEMIC CALENDAR</srai>
+	</template>
+    </category>	
+
+<category>
+<pattern>FIST BROCHURE</pattern>
+<template> You can get the MMU FIST Brochure from the link given below 
+https://www.mmu.edu.my/wp-content/uploads/2022/08/IT_8Aug2022.pdf
+</template>
+</category>
+
+   <category>
+      <pattern>* FIST BROCHURE</pattern>
+    <template>
+		<srai>FIST BROCHURE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* FIST BROCHURE *</pattern>
+    <template>
+		<srai>FIST BROCHURE</srai>
+	</template>
+    </category>
+
+<category>
+<pattern>BROCHURE</pattern>
+<template> 
+You can get others brochure from the link given below: \n
+https://www.mmu.edu.my/collaterals/
+</template>
+</category>
+
+   <category>
+      <pattern>* BROCHURE</pattern>
+    <template>
+		<srai>BROCHURE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* BROCHURE *</pattern>
+    <template>
+		<srai>BROCHURE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>BROCHURES</pattern>
+    <template>
+		<srai>BROCHURE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* BROCHURES</pattern>
+    <template>
+		<srai>BROCHURE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* BROCHURES *</pattern>
+    <template>
+		<srai>BROCHURE</srai>
+	</template>
+    </category>
+
+<category>
+<pattern>FIST FACILITIES</pattern>
+<template>
+The facilities provided in FIST are: \n
+1. SMART Intelligent Lab \n
+2. Bio Informatics Lab \n
+3. Centre of Intelligent Cloud Computing (CICC) Research Centre \n
+4. Centre for Ubiquitous Computing and Communication (CUCC) Research Centre \n
+You may also can have a virtual tour to FIST facilities through this link: \n
+https://360vr.my/mmumelaka/
+</template>
+</category>
+
+   <category>
+      <pattern>* FIST FACILITIES</pattern>
+    <template>
+		<srai>FIST FACILITIES</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* FIST FACILITIES *</pattern>
+    <template>
+		<srai>FIST FACILITIES</srai>
+	</template>
+    </category>
+
+</aiml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+	     
+	<category>
+      <pattern>FIST DEAN</pattern>
+      <template>
+		Prof. Ts. Dr. Lau Siong Hoe is the Dean of FIST. He received his degree in Electrical Engineering with Education (Hons) from University of Technology, Malaysia (UTM). He then completed his study in M. Sc. (IT) from University Putra Malaysia (UPM) and PhD from Multimedia University, Malaysia (MMU). You may know more about him from this link: \n https://mmuexpert.mmu.edu.my/lausionghoe
+	  </template>
+    </category>
+	
+   <category>
+      <pattern>* FIST DEAN</pattern>
+    <template>
+		<srai>FIST DEAN</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* FIST DEAN *</pattern>
+    <template>
+		<srai>FIST DEAN</srai>
+	</template>
+    </category>
+	
+    <category>
+      <pattern>EXPERTISE FOR FIST</pattern>
+	  <template> 
+		<random>
+			<li>Please goto this link to for Directory of Expertise of FIST: https://mmuexpert.mmu.edu.my/fist</li>
+            <li>Have a look over here to get the Directory of Expertise of FIST: https://mmuexpert.mmu.edu.my/fist</li>
+            <li>Click on this link to get the Directory of Expertise of FIST: https://mmuexpert.mmu.edu.my/fist</li>
+        </random>			
+	  </template>
+	</category>
+	
+   <category>
+      <pattern>* EXPERTISE FOR FIST</pattern>
+    <template>
+		<srai>EXPERTISE FOR FIST</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* EXPERTISE FOR FIST *</pattern>
+    <template>
+		<srai>EXPERTISE FOR FIST</srai>
+	</template>
+    </category>
+	
+</aiml>	

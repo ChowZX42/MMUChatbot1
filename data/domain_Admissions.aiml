@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0.1">
+ 
+   <category>
+      <pattern>ENTRY REQUIREMENT</pattern>
+    <template> Which entry requirement would you like to know more about? \n
+	Type the number based on the option below: \n
+		1. Bachelor of Information Technology (Hons.) Business Intelligence and Analytics \n
+		2. Bachelor of Computer Science (Hons.) Artificial Intelligence \n
+		3. Bachelor of Information Technology (Hons.) Security Technology \n
+		4. Bachelor of Science (Hons.) Bioinformatics \n
+		5. Bachelor of Information Technology (Hons.) Data Communications and Networking \n
+	</template>
+    </category>
+
+	<category>
+      <pattern>1</pattern>
+	  <that>WHICH ENTRY REQUIREMENT WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+      <template>
+		The Entry Requirement for BIT Business Intelligence and Analytics are: \n
+		1. Pass Foundation/Matriculation studies from a recognised institution, AND \n
+			a) a Credit in Additional Mathematics at SPM Level or its equivalent; OR \n
+			b) a Credit in Mathematics AND one Science/Technology/Engineering subject at SPM Level or its equivalent.* \n
+		2. Pass STPM in Science Stream or its equivalent with a minimum of Grade C (GP 2.00) inclusive of Mathematics and one Science / ICT subject; OR \n
+		3. Pass A-Level with a minimum of Grade D in Mathematics and one Science / ICT subject; OR \n
+		4. Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of Mathematics, English and one Science / ICT subject; OR \n
+		5. Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems OR equivalent and any Diploma in Science and Technology from recognised institution with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process; OR \n
+		6. Any other Diploma in Science and Technology or Business Studies with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process AND a Credit in Mathematics at SPM Level or its equivalent;* OR \n
+		7. Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.** \n
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>2</pattern>
+	  <that>WHICH ENTRY REQUIREMENT WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+      <template>
+		The Entry Requirement for BCS Artificial Intelligence are: \n
+		1. Pass Foundation/Matriculation studies from a recognised institution, AND \n
+			a) a Credit in Additional Mathematics at SPM Level or its equivalent; OR \n
+			b) a Credit in Mathematics AND one Science/Technology/Engineering subject at SPM Level or its equivalent.* \n
+		2. Pass STPM in Science Stream or its equivalent with a minimum of Grade C (GP 2.00) inclusive of Mathematics and one Science / ICT subject; OR \n
+		3. Pass A-Level with a minimum of Grade D in Mathematics and one Science / ICT subject; OR \n
+		4. Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of Mathematics, English and one Science / ICT subject; OR \n
+		5. Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems OR equivalent and any Diploma in Science and Technology from recognised institution with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process; OR \n
+		6. Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.** \n
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>3</pattern>
+	  <that>WHICH ENTRY REQUIREMENT WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+      <template>
+		The Entry Requirement for BIT Business Intelligence and Analytics are: \n
+		1. Pass Foundation/Matriculation studies from a recognised institution, AND \n
+			a) a Credit in Additional Mathematics at SPM Level or its equivalent; OR \n
+			b) a Credit in Mathematics AND one Science/Technology/Engineering subject at SPM Level or its equivalent.* \n
+		2. Pass STPM in Science Stream or its equivalent with a minimum of Grade C (GP 2.00) inclusive of Mathematics and one Science / ICT subject; OR \n
+		3. Pass A-Level with a minimum of Grade D in Mathematics and one Science / ICT subject; OR \n
+		4. Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of Mathematics, English and one Science / ICT subject; OR \n
+		5. Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems OR equivalent and any Diploma in Science and Technology from recognised institution with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process; OR \n
+		6. Any other Diploma in Science and Technology or Business Studies with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process AND a Credit in Mathematics at SPM Level or its equivalent;* OR \n
+		7. Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.** \n
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>3</pattern>
+	  <that>WHICH ENTRY REQUIREMENT WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+      <template>
+		The Entry Requirement for BIT Business Intelligence and Analytics are: \n
+		1. Pass Foundation/Matriculation studies from a recognised institution, AND \n
+			a) a Credit in Additional Mathematics at SPM Level or its equivalent; OR \n
+			b) a Credit in Mathematics AND one Science/Technology/Engineering subject at SPM Level or its equivalent.* \n
+		2. Pass STPM in Science Stream or its equivalent with a minimum of Grade C (GP 2.00) inclusive of Mathematics and one Science / ICT subject; OR \n
+		3. Pass A-Level with a minimum of Grade D in Mathematics and one Science / ICT subject; OR \n
+		4. Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of Mathematics, English and one Science / ICT subject; OR \n
+		5. Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems OR equivalent and any Diploma in Science and Technology from recognised institution with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process; OR \n
+		6. Any other Diploma in Science and Technology or Business Studies with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process AND a Credit in Mathematics at SPM Level or its equivalent;* OR \n
+		7. Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.** \n
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>5</pattern>
+	  <that>WHICH ENTRY REQUIREMENT WOULD YOU LIKE TO KNOW MORE ABOUT *</that>
+      <template>
+		The Entry Requirement for BIT Business Intelligence and Analytics are: \n
+		1. Pass Foundation/Matriculation studies from a recognised institution, AND \n
+			a) a Credit in Additional Mathematics at SPM Level or its equivalent; OR \n
+			b) a Credit in Mathematics AND one Science/Technology/Engineering subject at SPM Level or its equivalent.* \n
+		2. Pass STPM in Science Stream or its equivalent with a minimum of Grade C (GP 2.00) inclusive of Mathematics and one Science / ICT subject; OR \n
+		3. Pass A-Level with a minimum of Grade D in Mathematics and one Science / ICT subject; OR \n
+		4. Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of Mathematics, English and one Science / ICT subject; OR \n
+		5. Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems OR equivalent and any Diploma in Science and Technology from recognised institution with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process; OR \n
+		6. Any other Diploma in Science and Technology or Business Studies with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process AND a Credit in Mathematics at SPM Level or its equivalent;* OR \n
+		7. Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.** \n
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>FEE STRUCTURE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for the FIST Undergraduate Course : https://www.mmu.edu.my/wp-content/uploads/2021/03/UG_Fee-Structure_as-at-21-06-2022.pdf</li>
+			<li>Please goto this link to view the fee structure required for the FIST Undergraduate Course : https://www.mmu.edu.my/wp-content/uploads/2021/03/UG_Fee-Structure_as-at-21-06-2022.pdf</li>
+			<li>Have a look over here to view the fee structure for the FIST Undergraduate Course : https://www.mmu.edu.my/wp-content/uploads/2021/03/UG_Fee-Structure_as-at-21-06-2022.pdf</li>
+		</random>
+	  </template>
+    </category>
+	
+   <category>
+      <pattern>* FEE STRUCTURE</pattern>
+    <template>
+		<srai>FEE STRUCTURE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* FEE STRUCTURE *</pattern>
+    <template>
+		<srai>FEE STRUCTURE</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>FEES PAYMENT CHANNELS</pattern>
+      <template>
+		Local students may pay the fees through: \n
+		1. E-Payment \n
+		2. Jom PAY \n
+		For international students, you may make the payment from overseas through Flywire. \n
+		For more detail regarding fees payment method, you may refer to this link: \n
+		https://www.mmu.edu.my/financial-info/
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* FEES PAYMENT CHANNELS</pattern>
+    <template>
+		<srai>FEES PAYMENT CHANNELS</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* FEES PAYMENT CHANNELS *</pattern>
+    <template>
+		<srai>FEES PAYMENT CHANNELS</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>ADMISSION APPLICATION FOR LOCAL</pattern>
+      <template>
+		Local Student may apply the admission through online application with the following step: \n
+		Step 1: \n
+		Apply through this link: https://application.mmu.edu.my/ \n
+		Step 2: \n
+		Complete the form and upload all the necessary documents. Click submit once you’re done. \n
+		Step 3: \n
+		Our MMU representative will be in contact with you should we need further information from you. \n
+		Your offer letter will be issued to you via e-mail. The next action step will also be included in the e-mail.
+	  </template>
+    </category>	
+	
+	<category>
+      <pattern>ADMISSION APPLICATION FOR INTERNATIONAL</pattern>
+      <template>
+		International Student may apply the admission with the following step: \n
+		Step 1: \n
+		Apply through this link: https://application.mmu.edu.my/ \n
+		Eligibility Letter will be issued if you meet the entry requirements of the programme. \n
+		Hence, you are required to upload: \n
+		1. Soft copy of your academic results / transcripts, completion certificate \n
+		2. English Language proficiency such TOEFL, IELTS, PTE or its equivalent \n
+		3. Passport page with personal details \n
+		Kindly refer to the following steps when you upload the documents: \n
+		Go to MMU Online Application Webpage > Get Started Now >Check Application Status > Upload Document Section. \n
+		Step 2: \n
+		After receiving the Eligibility Letter, you are required to submit all documents below in hard copy via courier within one week. \n
+		A copy of payment slip for enrolment fee of RM2700 (non-refundable), payment can be made via: \n
+		MMU E-payment \n
+		Bank draft / money order made payable to UNIVERSITI TELEKOM SDN. BHD. \n
+		Money transfer to MMU CIMB Bank Account 8003699122 /Al-Rajhi Bank Account 12200-001-0001061001138 (Pay to :UNIVERSITI TELEKOM SDN BHD) \n
+		2 sets of certified true copies of high school certificates / transcripts /and other academic documents and records \n
+		Note: Academic records /details which are not in English Language must be translated into English Language by a certified translator \n
+		2 sets of certified true copy of English Language proficiency test such as TOEFL, IELTS or its equivalent (if you have taken any of the examination before applying to this university) \n
+		2 sets of certified true copy of all pages of your passport. Note: Passport validity must be more than 18 months from the expected date of entry \n
+		4 recent photographs (passport size / 4.5cm x 3.5cm) with white background. Note: Write your name at the back of each photograph \n
+		Declaration Letter (if there is a discrepancy in any details between passport and academic transcript) \n
+		Release Letter and Attendance Report from other institutions (if you have studied in Malaysia before) \n
+		Acceptance Form of Appendix A(A1) and (A2)
+		Step 3: \n
+		The Offer Letter will be emailed directly to you once you have completed the steps above. \n
+		You will be provided with the login ID and password to access the Online Offer Acceptance Portal. \n
+		We wish to inform you that an optional offer / counter offer would be given in the following situations: \n
+		1. Your qualification does not meet the admission selection criteria \n
+		2. The programme applied has already reached the intake quota \n
+		Step 4: \n
+		To keep track of your application status, you are required to frequently check the progress via MMU Online Application Webpage > Get Started Now > Check Application Status.
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>ADMISSION PROCESS</pattern>
+      <template>
+		You may get more detail regarding the admission process through this link: \n
+		https://www.mmu.edu.my/admission-process/
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* ADMISSION PROCESS</pattern>
+    <template>
+		<srai>ADMISSION PROCESS</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* ADMISSION PROCESS *</pattern>
+    <template>
+		<srai>ADMISSION PROCESS</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>INTAKE</pattern>
+      <template>
+		There will be 3 intake for Undergraduate Students which are April, July and October.
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* INTAKE</pattern>
+    <template>
+		<srai>INTAKE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* INTAKE *</pattern>
+    <template>
+		<srai>INTAKE</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>REGISTRATION DEADLINE</pattern>
+      <template>
+		The registration deadline for each intake are: \n
+		April Intake (Local): Mid-January to Early-May	\n
+		April Intake (International): Mid-January to Early-April \n
+		July Intake (Local): Early-May to Early-August \n
+		July Intake (International): Early-May to Mid-July \n
+		October Intake (Local): Early-July to End-October \n
+		October Intake (International): Early-July to Early-October
+	  </template>
+    </category>
+	
+   <category>
+      <pattern>* REGISTRATION DEADLINE</pattern>
+    <template>
+		<srai>REGISTRATION DEADLINE</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* REGISTRATION DEADLINE *</pattern>
+    <template>
+		<srai>REGISTRATION DEADLINE</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>UPDATE APPLICATION</pattern>
+      <template>
+		You may revise or update your application information or check the status of your application through this link: \n
+		https://smartsys.mmu.edu.my/
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* UPDATE APPLICATION</pattern>
+    <template>
+		<srai>UPDATE APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* UPDATE APPLICATION *</pattern>
+    <template>
+		<srai>UPDATE APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* UPDATE MY APPLICATION</pattern>
+    <template>
+		<srai>UPDATE APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* UPDATE MY APPLICATION *</pattern>
+    <template>
+		<srai>UPDATE APPLICATION</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>SCHOLARSHIPS FOR LOCAL</pattern>
+      <template>
+		MMU does provides multiple scholarship for local students. You may refer to the brochure with the link below: \n
+		https://www.mmu.edu.my/wp-content/uploads/2021/03/Scholarships-_-Financial-Aids-2022-Pre-U-_-Undergraduate-Malaysian-Students_February-2021_FO.pdf
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* SCHOLARSHIPS FOR LOCAL</pattern>
+    <template>
+		<srai>SCHOLARSHIPS FOR LOCAL</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* SCHOLARSHIPS FOR LOCAL *</pattern>
+    <template>
+		<srai>SCHOLARSHIPS FOR LOCAL</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>SCHOLARSHIPS FOR INTERNATIONAL</pattern>
+      <template>
+		MMU does provides multiple scholarship for local students. You may refer to the brochure with the link below: \n
+		https://www.mmu.edu.my/wp-content/uploads/2021/03/Scholarships-_-Financial-Aids-2022-Pre-U-_-Undergraduate-International-Students_February-2021-3.pdf
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* SCHOLARSHIPS FOR INTERNATIONAL</pattern>
+    <template>
+		<srai>SCHOLARSHIPS FOR INTERNATIONAL</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* SCHOLARSHIPS FOR INTERNATIONAL *</pattern>
+    <template>
+		<srai>SCHOLARSHIPS FOR INTERNATIONAL</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>PTPTN</pattern>
+      <template>
+		PTPTN Loan is only eligible for local students. For more detail regarding PTPTN Loan, you may refer to the link below: \n
+		https://www.mmu.edu.my/wp-content/uploads/2021/03/2022-PTPTN-NEW-1.pdf
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* PTPTN</pattern>
+    <template>
+		<srai>PTPTN</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* PTPTN *</pattern>
+    <template>
+		<srai>PTPTN</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>SCHOLARSHIPS APPLICATION</pattern>
+      <template>
+		You may apply the scholarship through this link: \n
+		https://www.mmu.edu.my/financial-assistance/
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* SCHOLARSHIPS APPLICATION</pattern>
+    <template>
+		<srai>SCHOLARSHIPS APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* SCHOLARSHIPS APPLICATION *</pattern>
+    <template>
+		<srai>SCHOLARSHIPS APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* APPLY SCHOLARSHIPS</pattern>
+    <template>
+		<srai>SCHOLARSHIPS APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* APPLY SCHOLARSHIP</pattern>
+    <template>
+		<srai>SCHOLARSHIPS APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* APPLY SCHOLARSHIPS *</pattern>
+    <template>
+		<srai>SCHOLARSHIPS APPLICATION</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* APPLY SCHOLARSHIP *</pattern>
+    <template>
+		<srai>SCHOLARSHIPS APPLICATION</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>BOOK APPOINTMENT</pattern>
+      <template>
+		You may visit to our FIST physically by booking an appoinment with us through this link: \n
+		https://www.mmu.edu.my/book-an-appointment/#book
+	  </template>
+    </category>	
+	
+   <category>
+      <pattern>* BOOK APPOINTMENT</pattern>
+    <template>
+		<srai>BOOK APPOINTMENT</srai>
+	</template>
+    </category>
+	
+   <category>
+      <pattern>* BOOK APPOINTMENT *</pattern>
+    <template>
+		<srai>BOOK APPOINTMENT</srai>
+	</template>
+    </category>
+	
+	<category>
+      <pattern>MORE ENQUIRIES</pattern>
+      <template>
+		For more enquiries regarding the topic beyond MMU FIST, you may get more enquires through this link: \n
+		https://www.mmu.edu.my/enquire-now/ \n
+		Or else you may contacts us via Whatsapp, Email, or Toll Free Telephone Number:
+		1. Whatsapp - \n
+		MALAYSIAN STUDENTS: 0136306458, 0136306455, 0192743188, 0136133144 \n
+		INTERNATIONAL STUDENTS: +60125660917 or +60196834188 \n
+		2. Email - 	connect@mmu.edu.my \n
+		3. Toll Free No. - 	1-300-800-668 (Mon-Fri, 9am-5pm)
+	  </template>
+    </category>	
+
+</aiml>
